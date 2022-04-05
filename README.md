@@ -1,7 +1,7 @@
 ### Running
 
 ```
-go run main.go {MAX_PROCESSES} {path1}, {path2}, {path3}, ...
+go run godu.go {MAX_PROCESSES} {path1}, {path2}, {path3}, ...
 ```
 
 MAX_PROCESSES - maximum amount of processes to calculate the size of directories
